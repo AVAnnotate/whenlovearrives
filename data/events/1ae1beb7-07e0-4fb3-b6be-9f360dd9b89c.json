@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "122f17e0-efe6-4060-8998-b6502a10a064": {
+      "label": "Sarah Kay & Phil Kaye - When Love Arrives ",
+      "is_offline": false,
+      "file_url": "https://ia601302.us.archive.org/35/items/kay-sample/Kay%20Sample.mp3",
+      "duration": 276
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Kay, Sarah. \"When Love Arrives\"",
+  "item_type": "Audio",
+  "label": " Sarah Kay & Phil Kaye - When Love Arrives ",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is a spoken-word poetry performance done by Sarah Kay and Phil Kaye. The poem is written by Sarah Kay herself. "
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-04-04T22:02:03.489Z",
+  "created_by": "saamturner",
+  "updated_at": "2025-04-04T22:02:03.489Z",
+  "updated_by": "saamturner"
+}
