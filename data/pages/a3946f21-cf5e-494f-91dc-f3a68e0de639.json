@@ -24,14 +24,14 @@
           "italic": true
         },
         {
-          "text": "Using the AVAnnotate platform, it allowed me to mark exact moments of vocal intensity, pitch fluctuation, and significant caesuras that encouraged closer analysis of how each vocal choice reinforces narrative "
+          "text": "Using the AVAnnotate platform, it allowed me to mark exact moments of vocal intensity, pitch fluctuation, and significant caesuras that encouraged closer analysis of how each vocal choice reinforces narrative developments"
         },
         {
           "type": "link",
           "url": null,
           "children": [
             {
-              "text": "developments"
+              "text": ""
             }
           ]
         },
@@ -100,7 +100,11 @@
           "italic": true
         },
         {
-          "text": ". By noting the affordances these materials and methods allowed for my annotations, I will also mention the challenges that had risen in using these techniques. "
+          "code": true,
+          "text": ". "
+        },
+        {
+          "text": "By noting the affordances these materials and methods allowed for my annotations, I will also mention the challenges that had risen in using these techniques. "
         }
       ]
     },
@@ -458,7 +462,7 @@
   "slug": "when-love-arrives-2015",
   "created_at": "2025-04-26T05:49:37.934Z",
   "created_by": "mikvela",
-  "updated_at": "2025-04-26T05:53:04.341Z",
+  "updated_at": "2025-04-26T05:56:56.049Z",
   "updated_by": "mikvela",
   "parent": "1957edfa-faaf-4b98-bf1e-ada6e3a3ec9e"
 }
